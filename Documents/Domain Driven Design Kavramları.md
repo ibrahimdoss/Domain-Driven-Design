@@ -52,6 +52,3 @@ Layered Architecture
 · Presentation Layer
 
 · Infrastructure Layer
-
-
-//TODO Bağlamlar Arasındaki İlişkiler EKLENECEK.
